@@ -1,9 +1,11 @@
 ################################################################################
 Mick's Christmas Tree Game.
 
-Check out the video on my YouTube channel: MickMake - https://www.youtube.com/c/MickMakes
-Video link: https://www.youtube.com/watch?v=
-Website article: http://mickmake.com/archives/
+Check out the video on my YouTube channel:
+ MickMake YouTube channel:    https://www.youtube.com/c/MickMakes
+ Video:                       https://www.youtube.com/watch?v=tHWXnCrZYtg
+ Website article:             https://mickmake.com/archives/1550
+ Game interface:              http://santa.mickmake.com/
 
 This is a good example of how to create an internet accessible application that can potentially handle a huge load. The Apache web server will die long before the Teensy will.
 
@@ -44,5 +46,10 @@ Source code running on the Teensy.
 # html/
 PHP/HTML files running on the internet facing server.
 Make sure you change the TARGET_SERVER text to the Linux box connect to the Teensy.
+
+
+################################################################################
+# Schematics/
+PDF and KiCad schematics. Pretty basic stuff, though.
 
 
